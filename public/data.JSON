@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Game Development",
+        "courseType": "short",
+        "courseDuration": 2,
+        "speciallity": "Developer",
+        "img": "https://itchronicles.com/wp-content/uploads/2021/04/Optimized-Illustration-from-Adobe-Stock-for-ITC-Post-on-AI-in-Game-Development-scaled.jpeg",
+        "image": "https://www.seoclerk.com/pics/000/797/739/e14c4fe13fe14cd522844457a7ef0ce2.jpg"
+    },
+    {
+        "title": "Artificial Intelligence",
+        "courseType": "long",
+        "courseDuration": 6,
+        "speciallity": "Engineer",
+        "img": "https://www.project-sherpa.eu/wp-content/uploads/2020/12/108243428_gettyimages-871148930.jpg",
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/how_to_become_a_software_engineer.jpg"
+    },
+    {
+        "title": "Cyber Security",
+        "courseType": "long",
+        "courseDuration": 6,
+        "speciallity": "Hacker",
+        "img": "https://www.securitymagazine.com/ext/resources/images/cyber-security-shield-freepik.jpg?height=635&t=1627001930&width=1200",
+        "image": "https://media.istockphoto.com/photos/anonymous-hacker-with-laptop-in-front-of-binary-code-cyber-security-picture-id962366210?b=1&k=20&m=962366210&s=170667a&w=0&h=DMo_N3cInUGALDSTZ6vhLmKWfDtSUGstb7-dQC-oVcg="
+    },
+    {
+        "title": "UI Design",
+        "courseType": "short",
+        "courseDuration": 2,
+        "speciallity": "Designer",
+        "img": "https://smazee.com/uploads/images/good-ui-5.png",
+        "image": "https://previews.123rf.com/images/scyther5/scyther52005/scyther5200500035/146991726-graphic-designer-drawing-sketches-logo-design-the-concept-of-a-new-brand-professional-creative-occup.jpg"
+    },
+    {
+        "title": "Block Chain",
+        "courseType": "long",
+        "courseDuration": 6,
+        "speciallity": "Block chain Engineer",
+        "img": "https://surrey-research-park.com/wp-content/uploads/news_4069e52a28903cb7442ccdee53be3b6b.jpg",
+        "image": "https://pantograph.io/wp-content/uploads/2020/09/how-to-become-blockchain-developer.jpg"
+    },
+    {
+        "title": "Data Science",
+        "courseType": "long",
+        "courseDuration": 6,
+        "speciallity": "Data Scientist",
+        "img": "https://www.un.org/sites/un2.un.org/files/field/image/1594842639.8507.jpg",
+        "image": "https://www.proschoolonline.com/wp-content/uploads/2018/12/data-scientist-musthave-skills-1.jpg"
+    }
+]

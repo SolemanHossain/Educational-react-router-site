@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.web-name{
+  color:blue;
+  background-color: rgb(29, 27, 27);
+  padding: 10px;
+  
+}
 
 @keyframes App-logo-spin {
   from {

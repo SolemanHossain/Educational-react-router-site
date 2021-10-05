@@ -1,0 +1,11 @@
+.home img{
+    height: 200px;
+    width: 480px;
+
+}
+.home{
+    border: 5px solid rgb(46, 20, 70) ;
+    border-radius: 10px;
+   
+    
+}
